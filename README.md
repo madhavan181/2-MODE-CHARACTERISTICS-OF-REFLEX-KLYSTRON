@@ -55,7 +55,11 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+
+<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/b8f7c47f-7ae4-4b45-8ebf-245e46ca7b9d" />
+
+<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/b16e00e9-5317-478b-bc23-8bb47fae497a" />
+
 
 **CALCULATIONS:**
 
