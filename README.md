@@ -18,10 +18,9 @@ To study mode characteristics of reflex klystron and hence to determine mode num
     
 **Experimental Setup:**
 
-<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/ac2f1507-a056-4761-a281-97c190d012c6" />
+<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/50bc1b66-06e3-436e-b0b5-677b57f2ae34" />
 
-<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/c32fac4b-12d0-4554-8dd3-db99a327237c" />
-
+<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/64a03024-272c-4fd2-9c85-535810320498" />
 
 **Theory**
 
@@ -57,9 +56,9 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
 **Observation: ( Include your own Table relevant to the Experiment)**
 
-<img width="800" height="745" alt="image" src="https://github.com/user-attachments/assets/b8f7c47f-7ae4-4b45-8ebf-245e46ca7b9d" />
+<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/ac2f1507-a056-4761-a281-97c190d012c6" />
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b16e00e9-5317-478b-bc23-8bb47fae497a" />
+<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/c32fac4b-12d0-4554-8dd3-db99a327237c" />
 
 
 CALCULATIONS:
