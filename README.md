@@ -18,8 +18,10 @@ To study mode characteristics of reflex klystron and hence to determine mode num
     
 **Experimental Setup:**
 
-<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
-<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
+<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/ac2f1507-a056-4761-a281-97c190d012c6" />
+
+<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/c32fac4b-12d0-4554-8dd3-db99a327237c" />
+
 
 **Theory**
 
