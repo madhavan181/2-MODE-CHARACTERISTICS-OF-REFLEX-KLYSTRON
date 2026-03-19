@@ -78,7 +78,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
     **Result:**
    	
-Thus the output is verified.
+Thus,the experiment is studied and verified
 			
 			
 
